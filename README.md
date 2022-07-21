@@ -4,6 +4,9 @@ Who is me
 ### Hi, I’m maizurzu. 
 
 1. Junior Web Developer
+2. I want to be Full-Stack
+3. Thus, Now i'm learning Java and SASS
+4. In future, JS also is mine!
 
 
 My Training Website[click](http://xman0922.dothome.co.kr/)
