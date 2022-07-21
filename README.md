@@ -1,4 +1,6 @@
-- Hi, I’m @maizurzu. 
+Who is me
+=================
+Hi, I’m @maizurzu. 
 i'm a student as far who want to become a web developer.
 -  I’m interested in Web develpoment Extremely!!
 - 🌱 I’m currently learning Java(For backend) and FrondEnd.
